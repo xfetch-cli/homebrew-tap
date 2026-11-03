@@ -28,3 +28,7 @@ brew untap xfetch-cli/tap
 
 - macOS arm64 (Apple Silicon)
 - macOS x86_64 (Intel)
+
+## License
+
+MIT. See [LICENSE](LICENSE). Attribution: xscriptor.
