@@ -1,7 +1,7 @@
 class Xfetch < Formula
   desc "A fast, customizable system information fetch tool for the terminal"
   homepage "https://github.com/xfetch-cli/xfetch"
-  license "MIT"
+  license "GPL-3.0-only"
   version "1.0.2"
 
   on_macos do
